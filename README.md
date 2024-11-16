@@ -28,6 +28,9 @@ Built with moz-build :D and portable M$ VS 2017
       
       
 --- Test 2 ---
+
 Newest MPC-Qt source with reverting to https://github.com/mpc-qt/mpc-qt/tree/e6177e8b9fd4c8989590c8e84778afcf90188dfb
+
 Compiled with Qt 5.15.1 and minGW81_32bit.
+
 Modded libmpv-2.dll 32bit - demands enabled VxKex (damn!)

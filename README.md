@@ -34,3 +34,9 @@ Newest MPC-Qt source with reverting to https://github.com/mpc-qt/mpc-qt/tree/e61
 Compiled with Qt 5.15.1 and minGW81_32bit.
 
 Modded libmpv-2.dll 32bit - demands enabled VxKex (damn!)
+
+
+--- Test 3 ---
+
+Qt 6.8.0 x64 compiled as the same as Qt 6.5.3
+Got few errors. Bugs: No visible text in Designer, Lingvist etc.

@@ -39,4 +39,4 @@ Modded libmpv-2.dll 32bit - demands enabled VxKex (damn!)
 --- Test 3 ---
 
 Qt 6.8.0 x64 compiled as the same as Qt 6.5.3
-Got few errors. Bugs: No visible text in Designer, Lingvist etc.
+Got few errors with VxKex.h about reading DPI functions (for Win 10/11). Works fine on Win 7.

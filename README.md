@@ -35,6 +35,8 @@ Compiled with Qt 5.15.1 and minGW81_32bit.
 
 Modded libmpv-2.dll 32bit - demands enabled VxKex (damn!)
 
+Repack of Clementine/Strawberry Music Player is added.
+
 
 --- Test 3 ---
 

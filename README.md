@@ -42,3 +42,8 @@ Repack of Clementine/Strawberry Music Player is added.
 
 Qt 6.8.0 x64 compiled as the same as Qt 6.5.3
 Got few errors with VxKex.h about reading DPI functions (for Win 10/11). Works fine on Win 7.
+
+--- Test 4 ---
+
+Qt 6.8.1 x64 compiled as the same as Qt 6.5.3, on Win 7, with VS 2022 17.3.
+Got fewer modules than 6.8.0. cause low storage space.

@@ -47,3 +47,7 @@ Got few errors with VxKex.h about reading DPI functions (for Win 10/11). Works f
 
 Qt 6.8.1 x64 compiled as the same as Qt 6.5.3, on Win 7, with VS 2022 17.3.
 Got fewer modules than 6.8.0. cause low storage space.
+
+--- Test 5 ---
+
+On the way to use Viber 24/25 on Win 7/8, using VxKex and forcing use of OpenGL or Vulkan...

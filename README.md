@@ -15,14 +15,14 @@ Built with moz-build :D and portable M$ VS 2017
       cd qt6
       git switch 6.5.2
 
+      perl init-repository
+      ./configure -init-submodules -submodules qtdeclarative
+
       cd qtbase
       patch  patch -p1 < changes.patch
       cd ..
-
-
   
-      perl init-repository
-      ./configure -init-submodules -submodules qtdeclarative
+
       cmake --build . --parallel 4
       cmake --install .
       
@@ -51,3 +51,7 @@ Got fewer modules than 6.8.0. cause low storage space.
 --- Test 5 ---
 
 On the way to use Viber 24/25 on Win 7/8, using VxKex and forcing use of OpenGL or Vulkan...
+
+--- Test 6 ---
+  
+Qt 6.5.3 x64 with patches for Win 7 (by crystalidea), because it is used by few softwares.

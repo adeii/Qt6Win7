@@ -55,3 +55,7 @@ On the way to use Viber 24/25 on Win 7/8, using VxKex and forcing use of OpenGL 
 --- Test 6 ---
   
 Qt 6.5.3 x64 with patches for Win 7 (by crystalidea), because it is used by few softwares.
+
+--- Test 7 ---
+  
+Qt 6.10.0 x64 with patches for Win 7 (by ANightly), because it is used by few softwares.

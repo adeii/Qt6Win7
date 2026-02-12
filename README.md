@@ -59,3 +59,7 @@ Qt 6.5.3 x64 with patches for Win 7 (by crystalidea), because it is used by few 
 --- Test 7 ---
   
 Qt 6.10.0 x64 with patches for Win 7 (by ANightly), because it is used by few softwares.
+
+--- Test 8 ---
+  
+Qt 6.10.2 x64 with fixing patches for Win 7 (by ANightly).

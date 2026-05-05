@@ -50,11 +50,12 @@ Got fewer modules than 6.8.0. cause low storage space.
 
 --- Test 5 ---
 
-On the way to use Viber 24/25 on Win 7/8, using VxKex and forcing use of OpenGL or Vulkan...
+Working Viber 24/25 on Win 7/8, using VxKex and forcing use of OpenGL or Vulkan...
 
 --- Test 6 ---
   
 Qt 6.5.3 x64 with patches for Win 7 (by crystalidea), because it is used by few softwares.
+Working Notepad Next port (Qt 6.6.0).
 
 --- Test 7 ---
   

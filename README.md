@@ -64,3 +64,7 @@ Qt 6.10.0 x64 with patches for Win 7 (by ANightly), because it is used by few so
 --- Test 8 ---
   
 Qt 6.10.2 x64 with fixing patches for Win 7 (by ANightly).
+
+--- Test 9 ---
+
+Qt 6.10.3 x64 + VxKex starts on Win 7.
